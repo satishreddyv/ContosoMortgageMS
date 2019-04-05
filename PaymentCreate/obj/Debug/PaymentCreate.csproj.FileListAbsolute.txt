@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\BiZAppsStudio\PaymentCreate\bin\Debug\PaymentCreate.dll
+C:\Users\Admin\source\repos\BiZAppsStudio\PaymentCreate\bin\Debug\PaymentCreate.pdb
+C:\Users\Admin\source\repos\BiZAppsStudio\PaymentCreate\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\Admin\source\repos\BiZAppsStudio\PaymentCreate\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\Admin\source\repos\BiZAppsStudio\PaymentCreate\obj\Debug\PaymentCreate.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\BiZAppsStudio\PaymentCreate\obj\Debug\PaymentCreate.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BiZAppsStudio\PaymentCreate\obj\Debug\PaymentCreate.csproj.CopyComplete
+C:\Users\Admin\source\repos\BiZAppsStudio\PaymentCreate\obj\Debug\PaymentCreate.dll
+C:\Users\Admin\source\repos\BiZAppsStudio\PaymentCreate\obj\Debug\PaymentCreate.pdb

@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+
+
+   <script>
+
+       function ButtonClick() {
+
+
+           var data =
+           {
+               "name": "Web API Account",
+               "creditonhold": false,
+               "address1_latitude": 47.639583,
+               "description": "This is the description of the sample account",
+               "revenue": 5000000,
+               "accountcategorycode": 1
+           }
+
+           // create account record
+          parent.Xrm.WebApi.createRecord("account", data).then(
+               function success(result) {
+                   console.log("Account created with ID: " + result.id);
+                   // perform operations on record creation
+               },
+               function (error) {
+                   console.log(error.message);
+                   // handle error conditions
+               }
+           );
+       }
+   </script>
+</head>
+<body>
+    <input value="Submit" type="button" onclick="ButtonClick();"/>
+</body>
+</html>
